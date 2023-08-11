@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+    
+}
+/* Estilos gerais */
+body {
+    font-family: Arrial, sans-serif;
+
+}
+/* Estilo do cabeçalho */
+.header {
+
+background-color: #FF8C00; /* Laranja escuro */
+text-align: center
+padding: 20px;
+
+}
